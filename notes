@@ -1,0 +1,8 @@
+python3 -m pip install netmiko --break-system-packages
+
+loop
+list
+
+sudo apt update
+sudo apt install python3-pip
+pip3 install scapy
